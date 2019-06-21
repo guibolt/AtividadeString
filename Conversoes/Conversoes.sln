@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversoes", "Conversoes.csproj", "{180D053F-B1F8-4D54-A591-4CF3BFFFBF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180D053F-B1F8-4D54-A591-4CF3BFFFBF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180D053F-B1F8-4D54-A591-4CF3BFFFBF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180D053F-B1F8-4D54-A591-4CF3BFFFBF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180D053F-B1F8-4D54-A591-4CF3BFFFBF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197B94E2-B417-4A07-8F65-7F395E294EA3}
+	EndGlobalSection
+EndGlobal
